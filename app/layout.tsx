@@ -6,7 +6,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Trello 2.0 Clone',
+  title: 'My Trello Clone',
   description: 'Consolidando conhecimentos em Next.js',
 }
 
